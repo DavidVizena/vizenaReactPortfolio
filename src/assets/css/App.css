@@ -13,6 +13,15 @@
 @font-face {
   font-family: "muncie";
   src: url("../Fonts/muncie.ttf"); }
+.paraBG {
+  position: fixed;
+  top: 0;
+  left: -100px;
+  bottom: -200px;
+  z-index: -150; }
+  .paraBG #bg {
+    opacity: .50; }
+
 .projects {
   z-index: 100;
   position: absolute;

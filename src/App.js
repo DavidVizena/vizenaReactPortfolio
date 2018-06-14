@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import NavTabs from "./components/NavTabs";
 import Home from "./components/pages/Home";
 import About from "./components/pages/About";
-import About from "./components/pages/Work";
+import Work from "./components/pages/Work";
 
 const App = () => (
   <Router>
