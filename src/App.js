@@ -8,7 +8,7 @@ import Work from "./components/pages/Work";
 const App = () => (
   <Router>
     <div>
-      <NavTabs />
+      {/* <NavTabs /> */}
       <Route exact path="/work" component={Work} />
       <Route exact path="/about" component={About} />
       <Route path="/" component={Home} />
