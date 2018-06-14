@@ -7,7 +7,7 @@ $whiteColor: #e8e8e8;
 /* Box sizing for all elements */
 
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 /*  */
@@ -15,18 +15,18 @@ $whiteColor: #e8e8e8;
 /* Fonts */
 
 @font-face {
-    font-family: "nexaBold";
-    src: url("../Fonts/nexaBold.otf")
+  font-family: "nexaBold";
+  src: url("../../fonts/nexaBold.otf");
 }
 
 @font-face {
-    font-family: "nexaLight";
-    src: url("../Fonts/nexaLight.otf")
+  font-family: "nexaLight";
+  src: url("../../fonts/nexaLight.otf");
 }
 
 @font-face {
-    font-family: "muncie";
-    src: url("../Fonts/muncie.ttf")
+  font-family: "muncie";
+  src: url("../../fonts/muncie.ttf");
 }
 
 //
