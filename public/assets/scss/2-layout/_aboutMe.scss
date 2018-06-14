@@ -1,0 +1,42 @@
+#backgroundImage {
+    background-size: cover;
+    top: 0;
+    left: -7%;
+    position: fixed;
+    z-index: -845;
+}
+
+.aboutMeBG {
+    position: absolute;
+    top: 0;
+    left: 55%;
+    top: 57%;
+    transform: translate(-50%, -50%);
+    img {
+        height: 80%;
+        width: 80%;
+    }
+}
+
+#textBoth {
+    position: absolute;
+    width: 60%;
+    height: 52%;
+    top: 28%;
+    left: 19%;
+}
+
+#am {
+    position: absolute;
+    height: 60%;
+    widows: 60%;
+    top: 12%;
+}
+
+#was {
+    position: absolute;
+    height: 60%;
+    width: 55%;
+    top: -2%;
+    left: 40%;
+}

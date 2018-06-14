@@ -1,0 +1,32 @@
+// Variables
+$redColor: #f23236;
+$darkGrayColor: #707070;
+$medGrayColor: #b8b8b8;
+$lightGrayColor: #f0f0f0;
+$whiteColor: #e8e8e8;
+/* Box sizing for all elements */
+
+* {
+    box-sizing: border-box;
+}
+
+/*  */
+
+/* Fonts */
+
+@font-face {
+    font-family: "nexaBold";
+    src: url("../Fonts/nexaBold.otf")
+}
+
+@font-face {
+    font-family: "nexaLight";
+    src: url("../Fonts/nexaLight.otf")
+}
+
+@font-face {
+    font-family: "muncie";
+    src: url("../Fonts/muncie.ttf")
+}
+
+//
